@@ -1,4 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/1040965650434228234/1052356338598031381/Picsart_22-12-14_00-47-35-849.png" width="512px">
+
 **VaniLiveMC- Ванильный сервер Minecraft.**
 На нашем сервере есть:
  - Экономика 
