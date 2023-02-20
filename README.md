@@ -1,6 +1,6 @@
 
 
-**VaniLiveMC- Ванильный сервер Minecraft.**
+**OnyxOasis- Ванильный сервер Minecraft.**
 На нашем сервере есть:
  - Экономика 
 - Правила
@@ -10,7 +10,7 @@
 - Гриферство и обман 
 <hr color="orange">
 Ссылки и полезная доп.информация:
-https://vanilive.pokimoon.repl.co/ <- Сайт 
+https://OnyxOasis.pokimoon.repl.co/ <- Сайт 
 <hr color="orange">
 
 <h1>Правила:</h1>
